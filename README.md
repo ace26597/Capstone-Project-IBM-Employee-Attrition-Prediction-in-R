@@ -25,4 +25,4 @@ library(rpart)
 Kaggle Notebook link:
 https://www.kaggle.com/ace526/svm-dtree-nn-c5-0
 
-<p><img src='ibm_c50.jpg'>
+<p><img src='ibm_c50.png'>
